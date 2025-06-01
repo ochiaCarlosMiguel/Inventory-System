@@ -1,0 +1,9 @@
+[30-Nov-2024 02:46:35 Europe/Berlin] Sale Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'timestamp' in 'field list'
+[30-Nov-2024 02:49:08 Europe/Berlin] Sale Error: Insufficient stock for product ID: 1
+[30-Nov-2024 03:00:29 Europe/Berlin] Sale Error: Insufficient stock for product ID: 1
+[30-Nov-2024 03:01:02 Europe/Berlin] Sale Error: Insufficient stock for product ID: 1
+[30-Nov-2024 03:01:33 Europe/Berlin] Sale Error: Insufficient stock for product ID: 1
+[06-Dec-2024 03:50:04 Europe/Berlin] PHP Warning:  Undefined array key "saleTimestamp" in C:\xampp\htdocs\InventorySystem\staff\addSales.php on line 95
+[06-Dec-2024 03:50:04 Europe/Berlin] Sale Error: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'sale_date' cannot be null
+[06-Dec-2024 03:50:10 Europe/Berlin] PHP Warning:  Undefined array key "saleTimestamp" in C:\xampp\htdocs\InventorySystem\staff\addSales.php on line 95
+[06-Dec-2024 03:50:10 Europe/Berlin] Sale Error: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'sale_date' cannot be null
